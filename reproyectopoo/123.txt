@@ -1,0 +1,141 @@
+ACTA DE EVALUACION # 1
+
+Fecha: 123
+
+Titulo del Trabajo: 123
+
+Tipo de trabajo: APLICADO
+Estudiante: miguel cumbalaza
+
+Director: luisa rincon
+
+Codirector: N.A.
+
+Jurado #1: gerardo sarria
+
+Jurado #2: gonzo zongo
+
+CRITERIO 1
+
+Definicion:
+Desarrollo y profundidad del tema
+
+Comentario del jurado #1:
+4
+
+Calificacion del criterio segun el jurado #1: 4
+
+Comentario del jurado #2:
+asd
+
+Calificacion del criterio segun el jurado #2: 1
+
+CRITERIO 2
+
+Definicion:
+Desafio academico y cientifico del tema
+
+Comentario del jurado #1:
+4
+
+Calificacion del criterio segun el jurado #1: 4
+
+Comentario del jurado #2:
+asd
+
+Calificacion del criterio segun el jurado #2: 1
+
+CRITERIO 3
+
+Definicion:
+Complimiento de los objetivos propuestos
+
+Comentario del jurado #1:
+4
+
+Calificacion del criterio segun el jurado #1: 4
+
+Comentario del jurado #2:
+asd
+
+Calificacion del criterio segun el jurado #2: 1
+
+CRITERIO 4
+
+Definicion:
+Creatividad e innovacion de las soluciones y desarrollos propuestos
+
+Comentario del jurado #1:
+4
+
+Calificacion del criterio segun el jurado #1: 4
+
+Comentario del jurado #2:
+asd
+
+Calificacion del criterio segun el jurado #2: 1
+
+CRITERIO 5
+
+Definicion:
+Validez de los resultados y conclusiones
+
+Comentario del jurado #1:
+4
+
+Calificacion del criterio segun el jurado #1: 4
+
+Comentario del jurado #2:
+asd
+
+Calificacion del criterio segun el jurado #2: 1
+
+CRITERIO 6
+
+Definicion:
+Manejo de procesamiento de la informacion y bibliografia
+
+Comentario del jurado #1:
+4
+
+Calificacion del criterio segun el jurado #1: 4
+
+Comentario del jurado #2:
+asd
+
+Calificacion del criterio segun el jurado #2: 1
+
+CRITERIO 7
+
+Definicion:
+Calidad y presentacion del documento escrito
+
+Comentario del jurado #1:
+4
+
+Calificacion del criterio segun el jurado #1: 4
+
+Comentario del jurado #2:
+asd
+
+Calificacion del criterio segun el jurado #2: 1
+
+CRITERIO 8
+
+Definicion:
+Presentacion oral
+
+Comentario del jurado #1:
+4
+
+Calificacion del criterio segun el jurado #1: 4
+
+Comentario del jurado #2:
+asd
+
+Calificacion del criterio segun el jurado #2: 1
+
+Comentario adicional de los jurados: 
+
+Nota final: 2.5
+Estado de la calificacion: RECHAZADA
