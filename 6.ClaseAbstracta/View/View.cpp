@@ -30,6 +30,23 @@ void View::pedirDatosCirculo()
     controller.agregarCirculo(radio);
 }
 
+void View::pedirDatosCuadrado()
+{
+    float lado;
+    do{
+        cout << "Digite el tamano de los lados: " << endl; cin >> lado;
+    } while ( lado <= 0 );
+}
+
+void View::pedirDatosTriangulo()
+{
+    float base, altura;
+    do{
+        cout << "Digite la base: "; cin >> base ;
+        cout << "Digite la altura: "; cin >> altura;
+    } while( base <= 0 || altura <= 0 );
+}
+
 void View::mostrarRectangulos()
 {
     //  list<Clase_a_recorrer>:: iterator nombre_iterador = nombre_lista_de_Clase.begin(); it != nombre_lista_de_Clase.end(); i++;
